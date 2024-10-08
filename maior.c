@@ -2,7 +2,7 @@
 
 int main()
 {
-   int n1, n2, n3, maior;
+   int n1, n2, n3;
    
    printf("\tMaior de três números!\n\n");
    
